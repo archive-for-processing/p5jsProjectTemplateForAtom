@@ -1,4 +1,4 @@
-## p5jsProjectTemplateForAtom
+# p5jsProjectTemplateForAtom
 A basic P5.js Project Template for Atom text editor https://atom.io/ though
 the atom-smart-template package https://atom.io/packages/atom-smart-template.
 
@@ -7,14 +7,14 @@ the file-sources needed to create a project in Atom text editor though
 atom-smart-template package consisting in the p5.js libraries http://p5js.org/,
 an html index file, a css stylesheet and the js sketch file.
 
-# P5.jsProjectTemplate content explanation:
+### P5.jsProjectTemplate content explanation:
 index.js : contains the instruction to be executed by atom-smart-template.
 index.template : is the template to generate the index.html of the project.
 styles/ : contains the source files to generate the project stylesheets.
 scripts/ : contains the source files to generate the project sketch.js.
 node_modules/ : contains the p5.js complete library as source to generate the project p5.js library.
 
-# P5.jsProjectTemplate creates a project containing files and folder:
+### P5.jsProjectTemplate creates a project containing files and folder:
 
 index.html : calls the p5.js libraries, the stylesheet and the sketch.js file.
 styles/ : contains the project css stylesheets.
