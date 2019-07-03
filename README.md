@@ -15,8 +15,14 @@ scripts/ : contains the source files to generate the project sketch.js.
 node_modules/ : contains the p5.js complete library as source to generate the project p5.js library.
 
 ### P5.jsProjectTemplate creates a project containing files and folder:
-
 index.html : calls the p5.js libraries, the stylesheet and the sketch.js file.
 styles/ : contains the project css stylesheets.
 scripts/ : contains the sketch.js to start creating your code for p5.js.
 libraries/ : contains the p5.js complete library.
+
+
+## How to use:
+1. install the package atom-smart-template package https://atom.io/packages/atom-smart-template .
+2. download p5jsProjectTemplateForAtom package .
+3. copy the content of the package to the folder .../atom/smart-templates .
+4. follow the atom-smart-template package user instructions https://github.com/AlexeySokolov/atom-smart-template.
