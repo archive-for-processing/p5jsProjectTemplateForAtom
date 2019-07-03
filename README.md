@@ -24,5 +24,5 @@ libraries/ : contains the p5.js complete library.
 ## How to use:
 1. install the package atom-smart-template package https://atom.io/packages/atom-smart-template .
 2. download the latest release of p5jsProjectTemplateForAtom from https://github.com/MatteRohrn/p5jsProjectTemplateForAtom/releases.
-3. copy the content of the package to the folder .../atom/smart-templates .
+3. copy the content of the package to the folder .../atom/smart-templates/ .
 4. follow the atom-smart-template package user instructions https://github.com/AlexeySokolov/atom-smart-template.
