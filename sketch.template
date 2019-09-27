@@ -1,0 +1,11 @@
+//Project Name: <%= ProjectName %>
+/*If your IDE supports linting see the .jshintrc document
+in the project root folder for linting options*/  
+
+function setup() {
+  // write setup code here
+}
+
+function draw() {
+  // write drawing code here
+}
